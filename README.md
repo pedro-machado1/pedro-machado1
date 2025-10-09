@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Pedro Jardim Machado</h1>
-<h3 align="center">A programmer that aims to constantly improve his skills</h3>
+<h3 align="centser">A programmer that aims to constantly improve his skills</h3>
 
-- 🔭 I’m currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Veterinario)
+Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Veterinario)
 
 - Email **pedro.jardim.machado@hotmail.com**
 

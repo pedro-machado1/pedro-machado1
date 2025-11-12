@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Pedro Jardim Machado</h1>
-<h3 align="center">A programmer that aims to constantly improve his skills</h3>
+<h3 align="center">A passionate developer dedicated to continuous learning and improvement</h3>
 
 Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Veterinario)
 

@@ -1,15 +1,14 @@
 <h1 align="center">Hello, I'm Pedro Jardim Machado</h1>
-<h3 align="center">A passionate developer dedicated to continuous learning and improvement</h3>
+<h3 align="center">Computer Science Student at PUCRS </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-flat&logo=github" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=flat-flat" alt="Focus">
 </p>
 
 ---
 
 ### About me
-Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Veterinario)
+Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Veterinario): A veterinary platform with 100+ REST endpoints
 
 - Email: **pedro.jardim.machado@hotmail.com**
 - Languages: **Portuguese** (Native) | **English** (Fluent) | **Spanish** (Basic)
@@ -47,13 +46,6 @@ Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Vet
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
-
----
-
-### Core Competencies
-- **Backend:** REST APIs, JWT, Spring Security, JUnit, Mockito.
-- **Cloud (AWS):** EC2, S3, RDS.
-- **Methodologies:** Agile (Scrum).
 
 ---
 

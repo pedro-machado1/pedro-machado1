@@ -8,7 +8,9 @@
 ---
 
 ### About me
-Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Veterinario): A veterinary platform with 100+ REST endpoints
+Computer Science student focused on **Artificial Intelligence, Machine Learning and NLP**.
+
+Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Veterinario): A veterinary platform with 100+ REST endpoints, structured for future AI and data analysis applications.
 
 - Email: **pedro.jardim.machado@hotmail.com**
 - Languages: **Portuguese** (Native) | **English** (Fluent) | **Spanish** (Basic)
@@ -35,6 +37,13 @@ Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Vet
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</p>
+
+#### AI & Machine Learning
+
+<p align="left">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
 </p>
 
 #### Tools, Cloud & DevOps

@@ -1,11 +1,10 @@
 <h1 align="center">Hello, I'm Pedro Jardim Machado</h1>
 <h3 align="center">Computer Science Student at PUCRS</h3>
 
-
 ---
 
 ### About me
-Computer Science student focused on **Artificial Intelligence, Machine Learning and NLP**.
+Computer Science student focused on **Artificial Intelligence, Machine Learning and Full-Stack Development**.
 
 Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Veterinario): A veterinary platform with 100+ REST endpoints, structured for future AI and data analysis applications.
 
@@ -54,6 +53,31 @@ Currently working on [App-Veterinario](https://github.com/pedro-machado1/App-Vet
 
 ---
 
+###  Projects
+
+### [VetNER – Named Entity Recognition with AI](https://github.com/pedro-machado1/VETNER)
+Fine-tuned **BERTimbau** for NER in veterinary clinical texts, recognizing entities like `DISEASE`, `SYMPTOM`, `MEDICATION`, `SPECIES`, and `TREATMENT`.
+-  **86.0% macro F1-score** on unseen test data
+- Full pipeline in PyTorch: BIO tokenization, AdamW + linear scheduler, early stopping, CoNLL evaluation
+
+---
+
+
+### [ERP System – Full Stack](https://github.com/EmersonCosttata/ErpMaispraTIFinal)
+Enterprise resource planning system built in a team of 7 over a 4-month cycle.
+- Stack: **Java (Spring Boot) + React + MySQL**
+- Containerized with Docker, deployed on Vercel & Render
+- Integration tests with **JUnit + Mockito**
+
+---
+
+### [VetHelp – Veterinary Care Platform](https://github.com/pedro-machado1/App-Veterinario) *(In Development)*
+Platform to centralize veterinary records and improve access to pet health information, structured for future AI and data analysis features.
+- 100+ REST API endpoints with MVC architecture
+- Role-based access control: **veterinarians, clinics, and clients**
+- JWT authentication with Spring Security
+
+---
 ### Social Media
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-jardim-machado/" target="blank">

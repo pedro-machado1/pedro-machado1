@@ -1,9 +1,6 @@
 <h1 align="center">Hello, I'm Pedro Jardim Machado</h1>
 <h3 align="center">Computer Science Student at PUCRS</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-flat&logo=github" alt="Status">
-</p>
 
 ---
 
